@@ -1,4 +1,4 @@
-Certainly, here's the entire README as a single code snippet for easy copy and paste:
+
 
 ```markdown
 # Customer Web Portal Build Script
